@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello, ambitious people. I'm a learner<br>
 
 
