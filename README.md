@@ -1,5 +1,4 @@
-# About Me:
-Hello, ambitious people. I'm a learner<br>
+# Hello, ambitious people. I'm a learner
 
 
 ## 🌐 Socials:
