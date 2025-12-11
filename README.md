@@ -1,6 +1,6 @@
 # Hello, ambitious people. I'm a learner
-`I'am Mayang Gumelar, I learn about machine learning` <br>
-You can learn with me on my YouTube channel @herearallyn (Click on link below)
+**`I'am Mayang Gumelar, I learn about machine learning`** <br>
+We can learn together on my YouTube channel @herearallyn (Click on link below)
 
 
 ## 🌐 Socials:
@@ -21,6 +21,9 @@ You can learn with me on my YouTube channel @herearallyn (Click on link below)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mayanggumelarr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### Profil View
+![Profile View Counter](https://komarev.com/ghpvc/?username=mayanggumelarr&color=blue)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mayanggumelarr&icon=0&color=4)](https://visitcount.itsvg.in)
