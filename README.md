@@ -1,5 +1,5 @@
-# Hello, ambitious people. I'm a learner
-**`I'am Mayang Gumelar, I learn about machine learning`** <br>
+# NGODING DULU AJA, JAGO PIKIR AKHIR
+**`I'am Mayang Gumelar, who learn about data science, data analysis, & machine learning`** <br>
 We can learn together on my YouTube channel @herearallyn (Click on link below)
 
 
