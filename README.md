@@ -11,6 +11,8 @@ We can learn together on my YouTube channel @herearallyn (Click on link below)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mayanggumelarr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mayanggumelarr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayanggumelarr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mayanggumelarr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
