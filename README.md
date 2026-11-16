@@ -1,6 +1,6 @@
 # NGODING DULU AJA, JAGO PIKIR AKHIR
 **`I'am Mayang Gumelar, who learn about data science, data analysis, & machine learning`** <br>
-We can learn together on my YouTube channel @herearallyn (Click on link below)
+We can learn together on my YouTube channel @gumelarmayang (Click on link below)
 
 
 ## 🌐 Socials:
